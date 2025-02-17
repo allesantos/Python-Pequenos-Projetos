@@ -12,7 +12,7 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 - [🚀 Recursos](#-recursos)
 - [🛠 Tecnologias](#-tecnologias)
 - [✅ Pré-requisitos](#-pré-requisitos)
-- [💾 Instalação](#-instalação)
+- [⚙️ Instalação](#-instalação)
 - [🤝 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
   
