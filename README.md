@@ -29,7 +29,11 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 
 ## 📂 Projetos
 
-1. **download_videos_youtube.py**: Um programa para baixar vídeos do YouTube de forma simples e eficiente. Com ele, você tem controle total sobre o processo, podendo ajustar o script conforme suas necessidades, sem depender de ferramentas externas que podem ser caras ou limitadas. Além disso, é uma excelente oportunidade para aprender programação e entender como esses processos funcionam.
+1. **deletar.py**: Um programa que exclui uma pasta e todo o seu conteúdo, incluindo subpastas e arquivos. Use com cuidado, pois a operação é irreversível.
+
+2. **desligar.py**: Um programa que desliga o computador imediatamente.
+
+3. **download_videos_youtube.py**: Um programa para baixar vídeos do YouTube de forma simples e eficiente. Com ele, você tem controle total sobre o processo, podendo ajustar o script conforme suas necessidades, sem depender de ferramentas externas que podem ser caras ou limitadas. Além disso, é uma excelente oportunidade para aprender programação e entender como esses processos funcionam.
 
     <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/python-pequenos-projetos/Captura%20de%20tela%202024-12-26%20121932.png">
 
