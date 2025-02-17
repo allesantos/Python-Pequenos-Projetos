@@ -45,12 +45,13 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 
 3. **Instale as bibliotecas necessárias como por exemplo:**
 
-   ```bash
-   pip install pytube 
-
-  ```bash
-   pip install pynput
-  ```
+     ```bash
+     pip install pytube 
+     ```
+     
+    ```bash
+     pip install pynput
+    ```
 ---
 
 ## 🤝 Contribuição
