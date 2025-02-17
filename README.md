@@ -1,4 +1,4 @@
-# Projeto Diversos Scripts em Python
+# Compilado de Projetos em Python
 
 Este repositório reúne **vários pequenos projetos em Python** com funcionalidades distintas e práticas. 
 
