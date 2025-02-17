@@ -17,8 +17,6 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 
 ## 🚀 Recursos
 - **Download de vídeos do YouTube**: Baixe vídeos de maneira customizável.
-- **Keylogger Educacional**: Capture entradas de teclado para estudo e aprendizado.
-- Código claro e comentado para facilitar a compreensão e futuras modificações.
 
 ---
 
@@ -26,7 +24,6 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 - **Python 3.x**: Linguagem principal utilizada.
 - **Bibliotecas recomendadas**:
   - Para download de vídeos: `pytube`
-  - Para keylogger: `pynput`
 
 ---
 
@@ -36,15 +33,12 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 
     <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/python-pequenos-projetos/Captura%20de%20tela%202024-12-26%20121932.png">
 
-3.  **keylogger.py**: Um script poderoso que registra tudo que é digitado no teclado. Desenvolvido **apenas para fins educacionais**, ele demonstra conceitos importantes sobre monitoramento de entradas e manipulação de eventos em Python.
-
 ---
 
 ## 📋 Pré-requisitos
 - **Python 3.6+** instalado no seu ambiente.
 - Instalação das dependências necessárias:
   - `pytube` (para o download de vídeos)
-  - `pynput` (para o keylogger)
 
 ---
 
