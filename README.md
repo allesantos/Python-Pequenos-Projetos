@@ -43,15 +43,14 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
    ```bash
    cd nome_do_repositorio
 
-2. **Instale as dependências: Se existir um arquivo requirements.txt**
-   ```bash
-   pip install -r requirements.txt
-
-2. **Caso contrário, instale manualmente:
+3. **Instale as bibliotecas necessárias como por exemplo:**
 
    ```bash
-   pip install pytube pynput
+   pip install pytube 
 
+  ```bash
+   pip install pynput
+  ```
 ---
 
 ## 🤝 Contribuição
