@@ -1,14 +1,21 @@
 # Projeto Diversos Scripts em Python
 
----
-
-## 🔍 Descrição
 Este repositório reúne **vários pequenos projetos em Python** com funcionalidades distintas e práticas. Nele, você encontrará:
 
 - **download_videos_youtube.py**: Um programa para baixar vídeos do YouTube de forma simples e eficiente. Com ele, você tem controle total sobre o processo, podendo ajustar o script conforme suas necessidades, sem depender de ferramentas externas que podem ser caras ou limitadas. Além disso, é uma excelente oportunidade para aprender programação e entender como esses processos funcionam.
   
 - **keylogger.py**: Um script poderoso que registra tudo que é digitado no teclado. Desenvolvido **apenas para fins educacionais**, ele demonstra conceitos importantes sobre monitoramento de entradas e manipulação de eventos em Python.
 
+---
+
+## 📌 Índice
+- [🚀 Recursos](#-recursos)
+- [🛠 Tecnologias](#-tecnologias)
+- [✅ Pré-requisitos](#-pré-requisitos)
+- [💾 Instalação](#-instalação)
+- [🤝 Contribuição](#-contribuição)
+- [📄 Licença](#-licença)
+  
 ---
 
 ## 🚀 Recursos
