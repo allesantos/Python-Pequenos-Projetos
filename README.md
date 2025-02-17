@@ -12,7 +12,7 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 - [🚀 Recursos](#-recursos)
 - [🛠 Tecnologias](#-tecnologias)
 - [✅ Pré-requisitos](#-pré-requisitos)
-- [⚙️ Instalação](#-instalação)
+- [💾 Instalação](#-instalação)
 - [🤝 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
   
@@ -41,7 +41,7 @@ Este repositório reúne **vários pequenos projetos em Python** com funcionalid
 
 ---
 
-## ⚙️ Instalação
+## 🔧 Instalação
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/seu_usuario/nome_do_repositorio.git
